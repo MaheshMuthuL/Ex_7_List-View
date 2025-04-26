@@ -21,10 +21,11 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
 /*
 Program to print the list of item.
-Developed by:L.Mahesh Muthu
-Registeration Number :212222040093
+Developed by: L.Mahesh Muthu
+Registeration Number : 212222040093
 */
 ```
 ## ACTIVITY_MAIN.XML
@@ -81,6 +82,7 @@ android:textColor="#4d4d4d"
     </string-array>
 </resources>
 ```
+
 ## MAINACTIVITY.JAVA
 ```
 package com.example.ex_7_listview;
@@ -124,10 +126,15 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
+
+
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/878ef07a-b1c1-43f5-bfa5-7222a14f8eb0)
-![image](https://github.com/user-attachments/assets/a1aa687b-2d1b-4db2-913d-b4e017a7dd9f)
+<img src="https://github.com/user-attachments/assets/4827b120-46ba-414f-be6a-3d0375010a70" width=30%>
+<img src="https://github.com/user-attachments/assets/38b05dbc-82b8-4254-af36-dd24ac5f912f" width=30%>
+
+
 
 ## RESULT
 Thus a Simple Android Application to create and develop the application to display the country name with image using list view in android studio is developed and executed successfully
